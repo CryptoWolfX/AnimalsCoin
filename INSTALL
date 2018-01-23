@@ -1,0 +1,9 @@
+Building Animalscoin
+
+See doc/readme-qt.rst for instructions on building Animalscoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Animalscoin.
+
+See doc/build-*.txt for instructions on building animalscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Animalscoin.

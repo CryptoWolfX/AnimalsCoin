@@ -1,0 +1,34 @@
+src/*.exe
+src/animalscoin
+src/animalscoind
+src/test_animalscoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.animalscoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+animalscoin-qt
+Animalscoin-Qt.app
+
+# Unit-tests
+Makefile.test
+animalscoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile

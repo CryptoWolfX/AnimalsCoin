@@ -1,7 +1,8 @@
 Animalscoin integration/staging tree
 ================================
 
-http://www.animalscoin.org
+http://www.theanimalscoin.com
+
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Animalscoin Developers
